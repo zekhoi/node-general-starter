@@ -1,2 +1,3 @@
-# node-general-starter
-NodeJS Starter Template
+# NodeJS Starter Template
+
+WIP
